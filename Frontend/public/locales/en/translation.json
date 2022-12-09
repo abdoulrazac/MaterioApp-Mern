@@ -1,0 +1,51 @@
+{
+  "thanks": {
+    "1": "congratulations john",
+    "0": "Best seller of the month",
+    "2": "Statistics Card",
+    "8": "Total 48.5% growth 😎 this month",
+    "3": " new on our platform?",
+    "4": "remeber me",
+    "5": "Adventure starts here 🚀",
+    "6": "Make your app management easy and fun!",
+    "7": " I agree to privacy policy & terms",
+    "register": "registered?"
+  },
+  "why": {
+    "1": " Please sign-in to your account and start the adventure",
+    "2": " Welcome to Materio! 👋🏻",
+    "3": "MATERIO",
+    "forgotpass": "ForgotPassword",
+    "subhead": " Please sign-in to your account and start the adventure",
+    "TotalEarning": "TotalEarning",
+    "zipcar": "Zip Car",
+    "BitBank": "Bit Bank",
+    "Aviato": "Aviato",
+    "Totalprofit": "Totalprofit",
+    "refund": "refund",
+    "newproject": "newproject",
+    "SalesQueries": "SalesQueries"
+  },
+  "deposit": {
+    "0": "Deposit",
+    "1": "Gumroad Account",
+    "2": "MasterCard",
+    "3": "Striped Card",
+    "4": "American Bank"
+  },
+  "withdraw": {
+    "4": "Refund",
+    "0": "Google Addense",
+    "1": "Github Enterprise",
+    "2": "Digital Ocean",
+    "3": "Upgrade Slack Plan"
+  },
+  "drawer": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "users": "Users",
+    "movies": "Movies",
+    "followers": "Followers",
+    "icons": "Icons"
+  }
+}
